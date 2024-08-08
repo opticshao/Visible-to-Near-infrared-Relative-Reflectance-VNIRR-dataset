@@ -13,5 +13,5 @@ Here are some parameters of the dataset：
 * Number of channels: 51
 * 217 artificially constructed scenes and 113 outdoor scenes, totaling 330 spectral data cubes.
 
-Below are some examples in the VNIRR dataset.
-![image](https://github.com/opticshao/Visible-to-Near-infrared-Relative-Reflectance-VNIRR-dataset/blob/main/SpectralDataset.png)
+Below are some examples in the VNIRSR dataset.
+![image](https://github.com/opticshao/Visible-to-Near-infrared-Relative-Spectral-Reflectance-VNIRSR-dataset/blob/main/SpectralDataset.png)
