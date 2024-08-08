@@ -1,4 +1,4 @@
-# Visible to Near-infrared Relative Reflectance (VNIRR) dataset
+# Visible to Near-infrared Relative Spectral Reflectance (VNIRSR) dataset
 
 We use the GaiaField-V10 HR hyperspectral imager produced by Dualix to capture the spectral dataset. 
 This spectral imager can capture a spectral data cube with dimensions of ${936 \times 960 \times 360}$, where ${936 \times 960}$ represents the spatial resolution and ${360}$ represents the number of spectral channels, covering a spectral range from ${382.30\ nm}$ to ${997.38\ nm}$, with a spectral sampling interval of approximately ${1.55\ nm \sim 1.88\ nm}$.
